@@ -16,6 +16,8 @@ nav ul li{
     list-style: none;
     display: inline-block;
     margin-left: 60px;
+    color: #ffffff;
+    text-decoration: none;
 }
 .nav_links{
     height: 12%;
@@ -24,7 +26,7 @@ nav ul li{
 }
 
 .logo{
-    width: 30px;
+    width: 50px;
     cursor: pointer;
 }
 
