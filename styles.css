@@ -39,7 +39,7 @@ nav{
 
 
 .logo{
-    width: 50px;
+    width: 300px;
     cursor: pointer;
     
 }
@@ -66,38 +66,3 @@ header{
 
 }
 
-.panel2{
-    width:200px;
-    height:230px;
-    display: inline-block;
-    border-radius: 10px;
-    cursor: pointer;
-    margin: 10px 15px;
-    background-image:url(images/1.jpg);
-    bacground-position: center;
-    background-size:cover;
-    }
-
-   .panel3{
-    width:200px;
-    height:230px;
-    display: inline-block;
-    border-radius: 10px;
-    cursor: pointer;
-    margin: 10px 15px;
-    background-image:url(images/1.jpg);
-    bacground-position: center;
-    background-size:cover;
-    }
-
-    .panel4{
-    width:200px;
-    height:230px;
-    display: inline-block;
-    border-radius: 10px;
-    cursor: pointer;
-    margin: 10px 15px;
-    background-image:url(images/1.jpg);
-    bacground-position: center;
-    background-size:cover;
-    }
