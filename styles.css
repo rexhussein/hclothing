@@ -82,7 +82,7 @@
     font-weight: 400;
     height: auto;
     line-height: 24px;
-    max-height: 100px;
+    max-height: 70px;
     max-width: 100%;
     overflow_x: clip;
     overflow-y: clip;
@@ -120,7 +120,7 @@
     -webkit-box-flex: 1;
     -webkit-box-orient: horizontal;
     -webkit-box-pack: center;
-    c
+
 }
 
 li a{
@@ -138,5 +138,16 @@ li a{
     text-decoration: none;
     -webkit-box-direction: normal;
     -webkit-box-direction: normal;
+}
+
+.container{
+    background-color: rgb(9, 153, 153);
+    width: 96%;
+}
+
+.content{
+      margin-left: 65px;
+     max-height: 300px;
+     max-width: 100%;
 }
 
